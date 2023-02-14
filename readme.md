@@ -11,7 +11,7 @@ Siga a imagem abaixo
  1. Peça um computador aos professores
  2. Ligue o Arduino no computador com o cabo USB
  3. Abra o aplicativo "Arduino"
- 4. Abra o link www.bit.ly/ultrassomarduino_maker
+ 4. Abra o link bit.ly/ultrassomarduino_maker
  5. Copie o código clicando no botão![Como copiar](https://raw.githubusercontent.com/anglo-maker/sensor_ultrassom_arduino/main/Copiar.png)
  6. Apague tudo de dentro do aplicativo do Arduino
  7. Aperte "Ctrl + V" dentro do aplicativo do Arduino
