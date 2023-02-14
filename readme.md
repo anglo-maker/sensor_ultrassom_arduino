@@ -9,6 +9,7 @@ Siga a imagem abaixo
 ## Programação
 
  1. Peça um computador aos professores
+ **A PARTIR DAQUI CONTINUE OS PASSOS NO COMPUTADOR E LEIA-OS PELO CHROMEBOOK** 
  2. Ligue o Arduino no computador com o cabo USB
  3. Abra o aplicativo "Arduino"
  4. Abra o link **bit.ly/ultrassomarduino_maker**
@@ -19,3 +20,4 @@ Siga a imagem abaixo
  9. Agora clique em porta e escolha a opção com o Arduino![enter image description here](https://raw.githubusercontent.com/anglo-maker/sensor_ultrassom_arduino/main/Porta.png)
  10. Confirme se apareceu Arduino e a porta![enter image description here](https://raw.githubusercontent.com/anglo-maker/sensor_ultrassom_arduino/main/Confirmar.png)
  11. Carregue o código para o Arduino![enter image description here](https://raw.githubusercontent.com/anglo-maker/sensor_ultrassom_arduino/main/Carregar.png)
+ 12. Aperte em salvar
