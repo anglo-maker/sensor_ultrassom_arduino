@@ -9,6 +9,7 @@ Siga a imagem abaixo
 ## Programação
 
  1. Peça um computador aos professores
+ 
  **A PARTIR DAQUI CONTINUE OS PASSOS NO COMPUTADOR E LEIA-OS PELO CHROMEBOOK** 
  2. Ligue o Arduino no computador com o cabo USB
  3. Abra o aplicativo "Arduino"
