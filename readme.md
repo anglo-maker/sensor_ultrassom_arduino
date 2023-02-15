@@ -10,7 +10,8 @@ Siga a imagem abaixo
 
  1. Peça um computador aos professores
  
- **A PARTIR DAQUI CONTINUE OS PASSOS NO COMPUTADOR E LEIA-OS PELO CHROMEBOOK** 
+ **A PARTIR DAQUI CONTINUE OS PASSOS NO COMPUTADOR E LEIA-OS PELO CHROMEBOOK**
+ 
  2. Ligue o Arduino no computador com o cabo USB
  3. Abra o aplicativo "Arduino"
  4. Abra o link **bit.ly/ultrassomarduino_maker**
